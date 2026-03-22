@@ -539,7 +539,7 @@ That combination is rare. Let's build something important together.
 
 <br/>
 
-![Made with ❤️ by Webber](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Anand-Sundar-red?style=for-the-badge)
+![Made with ❤️ by Webber](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-AnandSundar-red?style=for-the-badge)
 ![IBM Z Xplore](https://img.shields.io/badge/IBM%20Z%20Xplore-Advanced-blue?style=for-the-badge&logo=ibm)
 
 </div>
